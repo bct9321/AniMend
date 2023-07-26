@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from animend import process_directories_batch
+from directory_fixer import process_directories_batch
 
 def process_directories():
     try:
