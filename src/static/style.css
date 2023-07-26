@@ -1,1 +1,35 @@
+/* Basic CSS styling for AniMend front-end */
 
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Heading styles */
+h1 {
+  color: #3f51b5; /* A shade of blue */
+}
+
+/* Form styles */
+form {
+  margin-top: 20px;
+}
+
+input[type="submit"] {
+  background-color: #4caf50; /* A shade of green */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Result list styles */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
