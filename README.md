@@ -1,6 +1,11 @@
 # AniMend
 AniMend is an AI-powered tool that harmonizes your anime directory structures. It identifies anime titles in English and Japanese and fetches corresponding AniDB IDs, simplifying your anime organization process and enhancing your viewing experience.
 
+## Getting Started
+```
+pip install -r requirements.txt
+```
+
 ## Example
 Consider the following directory structure:
 ```shell
